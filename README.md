@@ -9,4 +9,10 @@ Turn-based gameplay with player indicators.
 replay options.
 A fun project to learn and practice WPF and C#.
 
-
+ScreenShots:
+Main Window
+![MainWindow](https://github.com/Haritha-Mathivanan/TicTacToe_Game_in_WPF-CSharp/blob/main/App%20Screenshots/MainWindow.png)
+Single Player
+![Player vs AI](https://github.com/Haritha-Mathivanan/TicTacToe_Game_in_WPF-CSharp/blob/main/App%20Screenshots/GameWindow_Player%20vs%20AI.png)
+Double Player
+![Player vs Player](https://github.com/Haritha-Mathivanan/TicTacToe_Game_in_WPF-CSharp/blob/main/App%20Screenshots/GameWindow_Player%20vs%20Player.png)
